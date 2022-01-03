@@ -1,4 +1,4 @@
-# Introduction to SQLite
+# Connecting to SQL Databases
 
 ## Introduction
 
